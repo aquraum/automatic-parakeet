@@ -8,7 +8,7 @@ print(date_choice)
 # print(date_choice)
 # print(date_choice)
 # print(date_choice)
-# print(date_choice)
+# print(date_choice)　なおしまーす
 # print(date_choice)
 # print(date_choice)
 # print(date_choice)
