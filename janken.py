@@ -4,3 +4,4 @@ date_choice = random.choice(date)
 print(date_choice)
 
 # jijiji
+# jijiji
